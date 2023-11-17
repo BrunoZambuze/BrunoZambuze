@@ -8,21 +8,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoZambuze&layout=compact)
 
 ## Tecnologias
-<div style="display: inline_block"></br>
-<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<div style="display: flex; justify-content: center;">
+    <img alt="C#" src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" width="38" height="38" style="margin-right: 555px;"/>
+    <img alt=".Net" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="38" height="38" style="margin-right: 555px;"/>
+    <img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="38" height="38" style="margin-right: 555px;"/>
+    <img alt="MySQL" src="https://img.icons8.com/fluency/512/mysql-logo.png" width="48" height="48" style="margin-right: 555px;"/>
+    <img alt="PostgreeSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="38" height="38"/>
 </div>
-<div style="display: inline_block"></br>
-<img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-</div>
-<div style="display: inline_block"></br>
-<img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</div>
-<div style="display: inline_block"></br>
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-<div style="display: inline_block"></br>
-<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoZambuze/BrunoZambuze/output/github-contribution-grid-snake-dark.svg">
