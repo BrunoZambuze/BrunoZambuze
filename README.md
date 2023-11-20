@@ -15,9 +15,3 @@
     <img alt="MySQL" src="https://img.icons8.com/fluency/512/mysql-logo.png" width="48" height="48" style="margin-right: 555px;"/>
     <img alt="PostgreeSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="38" height="38"/>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunoZambuze/BrunoZambuze/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunoZambuze/BrunoZambuze/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrunoZambuze/BrunoZambuze/output/github-contribution-grid-snake.svg">
-</picture>
