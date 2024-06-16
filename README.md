@@ -6,12 +6,3 @@
 ![BrunoZambuze GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoZambuze&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoZambuze&layout=compact)
-
-## Tecnologias
-<div style="display: flex; justify-content: center;">
-    <img alt="C#" src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" width="38" height="38" style="margin-right: 555px;"/>
-    <img alt=".Net" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="38" height="38" style="margin-right: 555px;"/>
-    <img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="38" height="38" style="margin-right: 555px;"/>
-    <img alt="MySQL" src="https://img.icons8.com/fluency/512/mysql-logo.png" width="48" height="48" style="margin-right: 555px;"/>
-    <img alt="PostgreeSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="38" height="38"/>
-</div>
